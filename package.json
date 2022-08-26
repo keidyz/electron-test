@@ -1,0 +1,23 @@
+{
+  "name": "electron-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ./src/electron/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keidyz/electron-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keidyz/electron-test/issues"
+  },
+  "homepage": "https://github.com/keidyz/electron-test#readme",
+  "dependencies": {
+    "electron": "20.1.0"
+  }
+}
